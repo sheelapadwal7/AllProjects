@@ -1,0 +1,6 @@
+com\test\controller\PostController.class
+com\test\model\Tag.class
+com\test\main\MainApp.class
+com\test\service\PostService.class
+com\test\util\HibernateUtil.class
+com\test\model\Post.class
